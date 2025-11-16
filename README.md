@@ -7,3 +7,6 @@ My first git project. Wish me luck.
 
 ## What to Expect
 Nothing
+
+This is text ftom branch-1
+I added new text
